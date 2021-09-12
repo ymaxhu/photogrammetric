@@ -1,0 +1,26 @@
+body {
+	width: 100vw;
+	height: 100vh;
+	margin: 0;
+	overflow: hidden;
+}
+
+#return{
+	width: 2vw;
+	height: 2vw;
+	min-width: 20px;
+	min-height: 20px;
+	position: fixed;
+	top: 30px;
+	left: 30px;
+	z-index: 10;
+}
+
+#soundElt{
+	position:fixed;
+    top:90vh;
+    left:30px;
+    width:12vw;
+    height:4vh;
+    z-index:6;
+}
